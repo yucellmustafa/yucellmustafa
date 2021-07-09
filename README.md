@@ -12,7 +12,7 @@ Engineer Candidate :)
    <a href="https://fb.com/yucellmustafa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yucellmustafa" height="30" width="40" /></a>
    <a href="https://instagram.com/yucellmustafa_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yucellmustafa_" height="30" width="40" /></a>
 
-## Spotify Now Playing
+## Spotify Recently Played
    <a href="https://open.spotify.com/user/yucellmustafa" target="_blank"> <img src="https://spotireadme.vercel.app/api/spotify" alt="spotify" width="350" /></a>
 
 ## Techs I use
