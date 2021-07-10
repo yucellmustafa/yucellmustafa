@@ -13,7 +13,7 @@ Engineer Candidate :)
    <a href="https://instagram.com/yucellmustafa_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yucellmustafa_" height="30" width="40" /></a>
 
 ## Spotify
-   <a href="https://open.spotify.com/user/yucellmustafa" target="_blank"> <img src="https://spotireadme.vercel.app/api/spotify" alt="spotify" width="350" /></a>
+   <a href="https://open.spotify.com/user/yucellmustafa" target="_blank"> <img src="https://spotime.vercel.app/api?spin=true&scan=true&theme=dark" alt="spotify" width="350" /></a>
 
 ## Techs I use
    <a href="https://github.com/yucellmustafa?tab=repositories&language=html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
