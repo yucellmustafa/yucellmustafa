@@ -17,13 +17,8 @@
 <a href="https://github.com/yucellmustafa?tab=repositories&language=python"><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
 <a href="https://www.gnu.org/software/bash/"><img width=50 src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/512x512.svg" /></a>
 
-## Latest Blog Posts
-
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Profile Readme](https://yucellmustafa.dev/2022/08/02/github-readme)
-- [DNS ile Reklam Engelleme](https://yucellmustafa.dev/2022/07/31/dns-reklam-engelleme)
-- [ADB ile Android Sistem Uygulamalarını Silme](https://yucellmustafa.dev/2022/07/30/adb-android-sistem-uygulamalari-silme)
-- [Monster laptoplarda Linux için Control Center ve sürücülerin kurulumu](https://yucellmustafa.dev/2022/04/22/monster-laptoplarda-linux-suruculerin-kurulumu)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
