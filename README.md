@@ -19,6 +19,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Profile Readme](https://yucellmustafa.dev/2022/08/02/github-readme)
+- [DNS ile Reklam Engelleme](https://yucellmustafa.dev/2022/07/31/dns-reklam-engelleme)
+- [ADB ile Android Sistem Uygulamalarını Silme](https://yucellmustafa.dev/2022/07/30/adb-android-sistem-uygulamalari-silme)
+- [Monster laptoplarda Linux için Control Center ve sürücülerin kurulumu](https://yucellmustafa.dev/2022/04/22/monster-laptoplarda-linux-suruculerin-kurulumu)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
