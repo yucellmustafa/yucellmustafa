@@ -9,6 +9,7 @@
 <a href="https://gist.github.com/yucellmustafa"><img width=50 src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
 <a href="https://www.linkedin.com/in/yucellmustafa"><img width=50 src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a>
 <a href="https://t.me/yucellmustafa"><img width=50 src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" /></a>
+<a href="https://youtube.com/@yucellmustafa"><img width=50 src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" /></a>
 
 ### Tech I use
 
