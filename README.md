@@ -20,10 +20,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Profile Readme](https://yucellmustafa.dev/2022/08/02/github-readme)
-- [DNS ile Reklam Engelleme](https://yucellmustafa.dev/2022/07/31/dns-reklam-engelleme)
-- [ADB ile Android Sistem Uygulamalarını Silme](https://yucellmustafa.dev/2022/07/30/adb-android-sistem-uygulamalari-silme)
-- [Monster laptoplarda Linux için Control Center ve sürücülerin kurulumu](https://yucellmustafa.dev/2022/04/22/monster-laptoplarda-linux-suruculerin-kurulumu)
+- [Mi Router 4A Gigabit için Kurtarma ve Stock Yazılıma Dönme Rehberi](https://yucellmustafa.github.io/2023/05/27/mi4a-gigabit-debrick)
+- [ZyXEL P-2812HNU-F1 için OpenWRT Kurulum Rehberi!](https://yucellmustafa.github.io/2023/05/23/zyxel-p2812-openwrt)
+- [GitHub Profile Readme](https://yucellmustafa.github.io/2022/08/02/github-readme)
+- [DNS ile Reklam Engelleme](https://yucellmustafa.github.io/2022/07/31/dns-reklam-engelleme)
+- [ADB ile Android Sistem Uygulamalarını Silme](https://yucellmustafa.github.io/2022/07/30/adb-android-sistem-uygulamalari-silme)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
