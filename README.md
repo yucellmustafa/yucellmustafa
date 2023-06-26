@@ -13,6 +13,7 @@
 
 ### Tech I use
 
+<a href="https://github.com/massgravel/Microsoft-Activation-Scripts"><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/></a>
 <a href="https://getfedora.org/"><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/></a>
 <a href="https://code.visualstudio.com/"><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 <a href="https://github.com/yucellmustafa?tab=repositories&language=python"><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
