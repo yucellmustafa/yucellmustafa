@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mi AX3200 için OpenWRT Kurulum Rehberi](https://yucellmustafa.github.io/2023/08/02/mi-ax3200-openwrt)
 - [Mi WiFi Mini R1C için OpenWRT Kurulum Rehberi](https://yucellmustafa.github.io/2023/07/04/miwifi-mini-r1c-openwrt)
 - [Mi Router 4A Gigabit için Kurtarma ve Stock Yazılıma Dönme Rehberi](https://yucellmustafa.github.io/2023/05/27/mi4a-gigabit-debrick)
 - [ZyXEL P-2812HNU-F1 için OpenWRT Kurulum Rehberi!](https://yucellmustafa.github.io/2023/05/23/zyxel-p2812-openwrt)
 - [GitHub Profile Readme](https://yucellmustafa.github.io/2022/08/02/github-readme)
-- [DNS ile Reklam Engelleme](https://yucellmustafa.github.io/2022/07/31/dns-reklam-engelleme)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
