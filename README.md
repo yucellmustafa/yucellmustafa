@@ -16,7 +16,6 @@
 <a href="https://github.com/massgravel/Microsoft-Activation-Scripts"><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/></a>
 <a href="https://getfedora.org/"><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/></a>
 <a href="https://code.visualstudio.com/"><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
-<a href="https://github.com/yucellmustafa?tab=repositories&language=python"><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
 <a href="https://www.gnu.org/software/bash/"><img width=50 src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/512x512.svg" /></a>
 
 # Blog posts
