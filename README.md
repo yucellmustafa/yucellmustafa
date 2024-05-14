@@ -6,6 +6,7 @@
 
 ### My Links
 
+<a href="https://xdaforums.com/m/yucellmustafa.12746030"><img width=50 src="https://bimi.entrust.net/xda-developers.com/logo.svg" /></a>
 <a href="https://gist.github.com/yucellmustafa"><img width=50 src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
 <a href="https://www.linkedin.com/in/yucellmustafa"><img width=50 src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a>
 <a href="https://t.me/yucellmustafa"><img width=50 src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" /></a>
