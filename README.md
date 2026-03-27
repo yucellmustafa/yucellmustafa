@@ -28,16 +28,6 @@
 - [Mi Router 4A Gigabit için Kurtarma ve Stock Yazılıma Dönme Rehberi](https://yucellmustafa.github.io/2023/05/27/mi4a-gigabit-debrick)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=yucellmustafa&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" >
-</details>
-
-<details>
-<summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucellmustafa&theme=tokyonight&hide=javascript,html,css,scss,smarty,ruby&layout=compact&count_private=true&langs_count=8" >
-</details>
-
 ---
 
 <a href="https://www.buymeacoffee.com/yucellmustafax"><img width=200 src="https://github.com/user-attachments/assets/9c15e3d3-752a-4306-8753-a7d45f21ed63" /></a>
