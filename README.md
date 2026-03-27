@@ -14,12 +14,7 @@
 
 ### Tech I use
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/windows" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=windows" alt="windows" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/jekyll" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" alt="jekyll" width="40" height="40"/> </a>
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,bash,python,flask,jekyll)](https://skillicons.dev)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
