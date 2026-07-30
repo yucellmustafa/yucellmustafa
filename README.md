@@ -14,7 +14,7 @@
 
 ### Tech I use
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,bash,python,flask,jekyll)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,bash,python,flask,flutter)](https://skillicons.dev)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
