@@ -16,15 +16,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,bash,python,flask,flutter)](https://skillicons.dev)
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Mi Router 4C için OpenWRT Kurulum Rehberi](https://yucellmustafa.github.io/2023/08/11/mi4c-openwrt)
-- [Superbox ZTE MF286R için OpenWRT Kurulum Rehberi!](https://yucellmustafa.github.io/2023/08/06/mf286r-openwrt)
-- [Mi AX3200 için OpenWRT Kurulum Rehberi](https://yucellmustafa.github.io/2023/08/02/mi-ax3200-openwrt)
-- [Mi WiFi Mini R1C için OpenWRT Kurulum Rehberi](https://yucellmustafa.github.io/2023/07/04/miwifi-mini-r1c-openwrt)
-- [Mi Router 4A Gigabit için Kurtarma ve Stock Yazılıma Dönme Rehberi](https://yucellmustafa.github.io/2023/05/27/mi4a-gigabit-debrick)
-<!-- BLOG-POST-LIST:END -->
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yucellmustafa&theme=dark)](https://git.io/streak-stats)
 ---
 
